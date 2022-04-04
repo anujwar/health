@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "677567127353",
+    "project_id": "smart-health-care-39e7d",
+    "storage_bucket": "smart-health-care-39e7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677567127353:android:05e54976f2dc1eb8bc12e8",
+        "android_client_info": {
+          "package_name": "com.example.smart_health_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677567127353-t2htskqlvv9ntbap1jplr8qfba0g4aqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_health_care",
+            "certificate_hash": "e9e248d7d50153bfedbd78f10140c8859f9ea288"
+          }
+        },
+        {
+          "client_id": "677567127353-vpqm0rl2l6o7pogq9b9ps6hmn70pgj8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaqOzjzGROmYX3RrdjyW7Ko9BWVxzfmhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677567127353-vpqm0rl2l6o7pogq9b9ps6hmn70pgj8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
